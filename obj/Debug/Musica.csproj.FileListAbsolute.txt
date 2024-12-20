@@ -1,0 +1,11 @@
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.Properties.Resources.resources
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.UserControl1.resources
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Musica\Musica\bin\Debug\Musica.exe.config
+C:\Users\rober\source\repos\Musica\Musica\bin\Debug\Musica.exe
+C:\Users\rober\source\repos\Musica\Musica\bin\Debug\Musica.pdb
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.exe
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.pdb
+C:\Users\rober\source\repos\Musica\Musica\obj\Debug\Musica.Form1.resources
